@@ -1,2 +1,2 @@
-# lernify
+# learnify
 ecommerce web site  
